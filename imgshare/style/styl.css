@@ -1,0 +1,25 @@
+body {
+	background : #333;
+	color : #FFF;
+}
+
+#wrap {
+	margin : 0 auto;
+}
+
+#box {
+	margin : 50px auto;
+	width : 960px;
+}
+
+a:link {
+	color : #FFF;
+}
+
+a:active, a:visited {
+	color : #fff;
+}
+
+a:hover {
+	color : #aaa;
+}
